@@ -30,10 +30,11 @@ Example Flower Strings
 
 You will need to use Integer.parseInt() to extract the numeric count from the front of the string.</string>
 
-## **Sample Output**
+## Expected Output
 
-Your program output should match this format:
+Your program output should match the following format:
 
+```text
 [02 daisy, 01 rose, 01 poppy, 01 sunflower]
 3
 -1
@@ -51,6 +52,8 @@ out of range
 gardenia
 out of range
 06 daisy
+```
+
 
 ## **Submission Requirements**
 
