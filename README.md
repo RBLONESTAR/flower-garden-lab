@@ -10,7 +10,7 @@ This lab strengthens your understanding of:
 - Extracting numeric values with `Integer.parseInt()`
 - Writing methods that call other methods
 
-**Description**
+## **Description**
 
 You will create a class named FlowerGarden that stores flower data inside an ArrayList<string>.
 
@@ -30,7 +30,7 @@ Example Flower Strings
 
 You will need to use Integer.parseInt() to extract the numeric count from the front of the string.</string>
 
-**Sample Output**
+## **Sample Output**
 
 Your program output should match this format:
 
@@ -52,7 +52,7 @@ gardenia
 out of range
 06 daisy
 
-**Submission Requirements**
+## **Submission Requirements**
 
 Submit:
 
